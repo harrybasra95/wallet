@@ -1,0 +1,7 @@
+ls:
+  src/*:
+    .tsx: PascalCase
+    .d.ts: camelCase
+
+ignore:
+  - node_modules
